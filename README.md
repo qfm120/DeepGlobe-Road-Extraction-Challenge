@@ -15,6 +15,8 @@ Place '*train*', '*valid*' and '*test*' data folders in the '*dataset*' folder.
 
 Data is from [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467#participate-get_starting_kit). You should sign in first to get the data.
 
+You also can download the data from the URL: https://pan.baidu.com/s/1tsUsXj_ohgWuSY4VL3grxg Extraction code: xqsj
+
 ### Train
 - Run `python train.py` to train the default D-LinkNet34.
 
