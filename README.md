@@ -1,4 +1,4 @@
-# DeepGlobe-Road-Extraction-Challenge
+# Modified DeepGlobe-Road-Extraction-Challenge Champion-DLinkNet
 Code for the 1st place solution in [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467).
 
 # Requirements
